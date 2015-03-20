@@ -1,4 +1,4 @@
-django-celery-rpc
+django-domain-name
 =================
 
 [![Build Status](https://travis-ci.org/ttyS15/django-domain-name.svg)](https://travis-ci.org/ttyS15/django-domain-name)

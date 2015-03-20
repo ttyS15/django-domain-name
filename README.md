@@ -25,7 +25,7 @@ class Domain(models.Model):
 
 from domain_name.utils import domain_ranking
 
-# Will find records with name with such values 
+# Will find records where value of name is: 
 # - test.example.org;
 # - \*.example.org;
 # - \*.org
